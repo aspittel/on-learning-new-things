@@ -1,0 +1,2 @@
+webpackJsonp([71230123872026],{388:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Objection + Knex = Painless PostgreSQL in your Node App",path:"/blog/objection"}}}]}},pathContext:{tag:"Node"}}}});
+//# sourceMappingURL=path---tags-node-c6bd19143853242b1753.js.map

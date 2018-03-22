@@ -1,0 +1,2 @@
+webpackJsonp([0xea86dc95895],{390:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Designing with Sketch",path:"/blog/sketch"}}}]}},pathContext:{tag:"Sketch"}}}});
+//# sourceMappingURL=path---tags-sketch-8b770c44fd86fecfd081.js.map

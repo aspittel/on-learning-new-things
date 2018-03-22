@@ -1,0 +1,2 @@
+webpackJsonp([85240199557489],{383:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building a MarkDown Reader in Electron",path:"/blog/electron"}}}]}},pathContext:{tag:"Electron"}}}});
+//# sourceMappingURL=path---tags-electron-0868a493b392b655acef.js.map

@@ -1,0 +1,174 @@
+{
+  "assetsByChunkName": {
+    "path---blog-sketch": [
+      "path---blog-sketch-802715cfc03f81791f37.js",
+      "path---blog-sketch-802715cfc03f81791f37.js.map"
+    ],
+    "path---tags-art": [
+      "path---tags-art-492bc9efde252c8dc3a1.js",
+      "path---tags-art-492bc9efde252c8dc3a1.js.map"
+    ],
+    "path---tags-sketch": [
+      "path---tags-sketch-8b770c44fd86fecfd081.js",
+      "path---tags-sketch-8b770c44fd86fecfd081.js.map"
+    ],
+    "path---blog-objection": [
+      "path---blog-objection-66b0c08a076093af32f5.js",
+      "path---blog-objection-66b0c08a076093af32f5.js.map"
+    ],
+    "path---blog-socket-io": [
+      "path---blog-socket-io-cb85c81632d922ad7c63.js",
+      "path---blog-socket-io-cb85c81632d922ad7c63.js.map"
+    ],
+    "path---tags-go": [
+      "path---tags-go-a051d916a10d5a3dc8e0.js",
+      "path---tags-go-a051d916a10d5a3dc8e0.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-2d8370aac263077f077e.js",
+      "component---src-pages-index-js-2d8370aac263077f077e.js.map"
+    ],
+    "path---blog-web-components": [
+      "path---blog-web-components-aece5ee72bccf098ad71.js",
+      "path---blog-web-components-aece5ee72bccf098ad71.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-838eddff46fddb5dfa01.js",
+      "component---src-templates-tags-js-838eddff46fddb5dfa01.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---tags-angular": [
+      "path---tags-angular-8010624bb6a5bc3ea8b8.js",
+      "path---tags-angular-8010624bb6a5bc3ea8b8.js.map"
+    ],
+    "path---tags-design": [
+      "path---tags-design-b4eb27f9ed7ef3c90e95.js",
+      "path---tags-design-b4eb27f9ed7ef3c90e95.js.map"
+    ],
+    "path---tags-node": [
+      "path---tags-node-c6bd19143853242b1753.js",
+      "path---tags-node-c6bd19143853242b1753.js.map"
+    ],
+    "path---tags-electron": [
+      "path---tags-electron-0868a493b392b655acef.js",
+      "path---tags-electron-0868a493b392b655acef.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1d457095af01b5bbd191.js",
+      "component---src-layouts-index-js-1d457095af01b5bbd191.js.map"
+    ],
+    "component---src-templates-blog-template-js": [
+      "component---src-templates-blog-template-js-b0c2fa9e4dd50e0858d2.js",
+      "component---src-templates-blog-template-js-b0c2fa9e4dd50e0858d2.js.map"
+    ],
+    "path---tags-backend": [
+      "path---tags-backend-1aac7f6964bff2fb59f2.js",
+      "path---tags-backend-1aac7f6964bff2fb59f2.js.map"
+    ],
+    "path---tags-data-science": [
+      "path---tags-data-science-20c41f09082d500e13c3.js",
+      "path---tags-data-science-20c41f09082d500e13c3.js.map"
+    ],
+    "path---tags-desktop": [
+      "path---tags-desktop-4965dd1bcebbc512ec66.js",
+      "path---tags-desktop-4965dd1bcebbc512ec66.js.map"
+    ],
+    "path---index": [
+      "path---index-42af5c85ce61f6f4c895.js",
+      "path---index-42af5c85ce61f6f4c895.js.map"
+    ],
+    "path---blog-css-art": [
+      "path---blog-css-art-6d82e128a9bd672a04a2.js",
+      "path---blog-css-art-6d82e128a9bd672a04a2.js.map"
+    ],
+    "path---tags-api": [
+      "path---tags-api-e617b678a928130fdf32.js",
+      "path---tags-api-e617b678a928130fdf32.js.map"
+    ],
+    "path---tags-web-components": [
+      "path---tags-web-components-0bace97cf0d5ee015c8c.js",
+      "path---tags-web-components-0bace97cf0d5ee015c8c.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-37e7ec241aad23eaba66.js",
+      "commons-37e7ec241aad23eaba66.js.map"
+    ],
+    "path---blog-portfolio": [
+      "path---blog-portfolio-8b47e6f11db0f89867c6.js",
+      "path---blog-portfolio-8b47e6f11db0f89867c6.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-augmented-reality": [
+      "path---tags-augmented-reality-2833ea985596d6774f22.js",
+      "path---tags-augmented-reality-2833ea985596d6774f22.js.map"
+    ],
+    "path---tags-frontend": [
+      "path---tags-frontend-803a0668c044bd854b23.js",
+      "path---tags-frontend-803a0668c044bd854b23.js.map"
+    ],
+    "path---tags-postgre-sql": [
+      "path---tags-postgre-sql-f02bd3b818e4d68665ec.js",
+      "path---tags-postgre-sql-f02bd3b818e4d68665ec.js.map"
+    ],
+    "path---blog-elm": [
+      "path---blog-elm-53b59387b50441f6fff5.js",
+      "path---blog-elm-53b59387b50441f6fff5.js.map"
+    ],
+    "path---tags-css": [
+      "path---tags-css-99c98b3afca86c3b1386.js",
+      "path---tags-css-99c98b3afca86c3b1386.js.map"
+    ],
+    "path---tags-java-script": [
+      "path---tags-java-script-a6ded6dafd1f3a8ed139.js",
+      "path---tags-java-script-a6ded6dafd1f3a8ed139.js.map"
+    ],
+    "path---blog-facial-recognition": [
+      "path---blog-facial-recognition-8581ceac309e622203c8.js",
+      "path---blog-facial-recognition-8581ceac309e622203c8.js.map"
+    ],
+    "app": [
+      "app-de729fbbca7d925496c0.js",
+      "build-js-styles.css",
+      "app-de729fbbca7d925496c0.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---tags-elm": [
+      "path---tags-elm-e841f7189f93b599c06c.js",
+      "path---tags-elm-e841f7189f93b599c06c.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-websockets": [
+      "path---tags-websockets-f1e2c0c4569b78df3fad.js",
+      "path---tags-websockets-f1e2c0c4569b78df3fad.js.map"
+    ],
+    "path---blog-angular": [
+      "path---blog-angular-38cbd0545a32954e8cde.js",
+      "path---blog-angular-38cbd0545a32954e8cde.js.map"
+    ],
+    "path---blog-electron": [
+      "path---blog-electron-f88dc85572ca33379ebb.js",
+      "path---blog-electron-f88dc85572ca33379ebb.js.map"
+    ],
+    "path---blog-hyperapp": [
+      "path---blog-hyperapp-14d60aaddc22d346b795.js",
+      "path---blog-hyperapp-14d60aaddc22d346b795.js.map"
+    ],
+    "path---blog-go": [
+      "path---blog-go-53f73efcab5b27d81e47.js",
+      "path---blog-go-53f73efcab5b27d81e47.js.map"
+    ]
+  }
+}
