@@ -1,0 +1,29 @@
+{
+  "name": "on-learning-new-things",
+  "description": "on-learning-new-things",
+  "version": "1.0.0",
+  "author": "Ali Spittel <ali07cat07@gmail.com>",
+  "dependencies": {
+    "gatsby": "^1.9.232",
+    "gatsby-link": "^1.6.39",
+    "gatsby-plugin-react-helmet": "^2.0.7",
+    "gatsby-remark-prismjs": "^1.2.18",
+    "gatsby-source-filesystem": "^1.5.27",
+    "gatsby-transformer-remark": "^1.7.37",
+    "react-helmet": "^5.2.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  }
+}
