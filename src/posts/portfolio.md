@@ -43,17 +43,20 @@ Array.from(document.getElementsByClassName('letter')).forEach(letter => {
 After tweaking the CSS a bunch, I ended up with [a mockup Codepen](https://codepen.io/aspittel/pen/xPgaGJ) of my name. I ended up really liking the animation, and I decided to run with it and redesign the rest of my site to match the rainbow name! I am not a trained designer by any means, and — though I probably should — I don’t usually wireframe my sites ahead of time or use any design software. I add a feature that I envision and then tweak it until it looks good on the page.
 
 #### Mockup Codepen
-{% codepen https://codepen.io/aspittel/pen/xPgaGJ %}
+<p data-height="265" data-theme-id="0" data-slug-hash="xPgaGJ" data-default-tab="result" data-user="aspittel" data-embed-version="2" data-pen-title="Animated Name" class="codepen">See the Pen <a href="https://codepen.io/aspittel/pen/xPgaGJ/">Animated Name</a> by Ali Spittel (<a href="https://codepen.io/aspittel">@aspittel</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 I also decided to use vanilla JavaScript (so no framework), my own CSS (again no framework).
 
 I had also recently seen a couple cool Code Pens using p5.js. Two of my favorites were an [interactive physics playground](https://codepen.io/dissimulate/pen/fhjvk) and a [Wikipedia change visualizer](https://codepen.io/halvves/pen/rrxakW). I decided that I wanted to try and learn the library for this project. I just looked through the basic [demos](https://p5js.org/examples/#demos) on the P5 site. I thought that it could be fun to draw a bunch of random shapes based on user input. Doing so was a pretty easy extension from the demos on the website.
 
 #### Interactive Physics Playground
-{% codepen https://codepen.io/dissimulate/pen/fhjvk %}
+<p data-height="406" data-theme-id="0" data-slug-hash="fhjvk" data-default-tab="result" data-user="dissimulate" data-embed-version="2" data-pen-title="Physics Playground" class="codepen">See the Pen <a href="https://codepen.io/dissimulate/pen/fhjvk/">Physics Playground</a> by dissimulate (<a href="https://codepen.io/dissimulate">@dissimulate</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 #### Wikipedia Change Visualizer
-{% codepen https://codepen.io/halvves/pen/rrxakW %}
+<p data-height="265" data-theme-id="0" data-slug-hash="rrxakW" data-default-tab="result" data-user="halvves" data-embed-version="2" data-pen-title="Wikipedia Audiovisualizer (p5.js & timbre.js)" class="codepen">See the Pen <a href="https://codepen.io/halvves/pen/rrxakW/">Wikipedia Audiovisualizer (p5.js & timbre.js)</a> by halvves (<a href="https://codepen.io/halvves">@halvves</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 #### My Random Shapes
 ![](https://thepracticaldev.s3.amazonaws.com/i/drh87mia4nazv0516m7a.png)
