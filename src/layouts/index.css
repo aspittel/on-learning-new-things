@@ -178,3 +178,7 @@ h4 {
     font-size: 30px;
   }
 }
+
+img {
+  max-width: 100%;
+}
