@@ -1,2 +1,2 @@
-webpackJsonp([0xf0bdf4e16a89],{392:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Socket.io: Making Web Sockets a Piece of Cake!",path:"/blog/socket-io"}}}]}},pathContext:{tag:"websockets"}}}});
+webpackJsonp([0xf0bdf4e16a89],{393:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Socket.io: Making Web Sockets a Piece of Cake!",path:"/blog/socket-io"}}}]}},pathContext:{tag:"websockets"}}}});
 //# sourceMappingURL=path---tags-websockets-f1e2c0c4569b78df3fad.js.map

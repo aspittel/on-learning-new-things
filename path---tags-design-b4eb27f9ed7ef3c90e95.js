@@ -1,2 +1,2 @@
-webpackJsonp([65951750749414],{381:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Designing with Sketch",path:"/blog/sketch"}}}]}},pathContext:{tag:"design"}}}});
+webpackJsonp([65951750749414],{382:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Designing with Sketch",path:"/blog/sketch"}}}]}},pathContext:{tag:"design"}}}});
 //# sourceMappingURL=path---tags-design-b4eb27f9ed7ef3c90e95.js.map

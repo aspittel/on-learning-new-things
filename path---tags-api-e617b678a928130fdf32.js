@@ -1,2 +1,2 @@
-webpackJsonp([0x8d8700bcc262],{375:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How I Built an API with Mux, Go, PostgreSQL, and GORM",path:"/blog/go"}}}]}},pathContext:{tag:"API"}}}});
+webpackJsonp([0x8d8700bcc262],{376:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How I Built an API with Mux, Go, PostgreSQL, and GORM",path:"/blog/go"}}}]}},pathContext:{tag:"API"}}}});
 //# sourceMappingURL=path---tags-api-e617b678a928130fdf32.js.map
