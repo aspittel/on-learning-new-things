@@ -1,2 +1,2 @@
-webpackJsonp([0x81815590a299],{383:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building a MarkDown Reader in Electron",path:"/blog/electron"}}}]}},pathContext:{tag:"desktop"}}}});
+webpackJsonp([0x81815590a299],{387:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building a MarkDown Reader in Electron",path:"/blog/electron"}}}]}},pathContext:{tag:"desktop"}}}});
 //# sourceMappingURL=path---tags-desktop-4965dd1bcebbc512ec66.js.map
