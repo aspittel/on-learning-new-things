@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/on-learning-new-things/app-552368e0c7fe45952487.js","31cfd2402d252197167917c77e5fd75e"],["/on-learning-new-things/app-de729fbbca7d925496c0.js","f4f68899be3f2d336f74c16fc8f681f3"],["/on-learning-new-things/app-e07367b2ed87ae2406ff.js","255765e517d600bdf7245afe8182d181"],["/on-learning-new-things/app-e3e01e6fe2a430b7a526.js","3d90a41975c605364f36dfa24153a0d5"],["/on-learning-new-things/commons-37e7ec241aad23eaba66.js","affea97bf7b21f90d40192a905e6a0b7"],["/on-learning-new-things/index.html","cde9ed056f479ed00cee39b34d791945"],["/on-learning-new-things/offline-plugin-app-shell-fallback/index.html","f9b269ee339a6f4670514df921574cdc"]];
+var precacheConfig = [["/on-learning-new-things/app-552368e0c7fe45952487.js","31cfd2402d252197167917c77e5fd75e"],["/on-learning-new-things/app-de729fbbca7d925496c0.js","f4f68899be3f2d336f74c16fc8f681f3"],["/on-learning-new-things/app-e07367b2ed87ae2406ff.js","255765e517d600bdf7245afe8182d181"],["/on-learning-new-things/app-e3e01e6fe2a430b7a526.js","3d90a41975c605364f36dfa24153a0d5"],["/on-learning-new-things/commons-37e7ec241aad23eaba66.js","affea97bf7b21f90d40192a905e6a0b7"],["/on-learning-new-things/index.html","28a42c3039fe51dbdff539cf43a9f699"],["/on-learning-new-things/offline-plugin-app-shell-fallback/index.html","f71a22a61df60ddd78ff76d131610380"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
