@@ -1,2 +1,2 @@
-webpackJsonp([0xa4499b63a754],{381:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Facial Recognition in JavaScript using Tracking.js",path:"/blog/facial-recognition"}}}]}},pathContext:{tag:"Augmented Reality"}}}});
+webpackJsonp([0xa4499b63a754],{386:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Facial Recognition in JavaScript using Tracking.js",path:"/blog/facial-recognition"}}}]}},pathContext:{tag:"Augmented Reality"}}}});
 //# sourceMappingURL=path---tags-augmented-reality-2833ea985596d6774f22.js.map
